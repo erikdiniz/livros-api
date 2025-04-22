@@ -1,8 +1,8 @@
 # 📚 API - Lista de livros
 
-Uma API desenvolvida em Django e Django REST Framework para gerenciamento de usuários e livros, com sistema de autenticação e listagem de livros.
+Uma API desenvolvida em Django e Django REST Framework para gerenciamento de usuários e listagem de livros.
 
-obs: Utilize o POSTMAN para executar as requisições
+💡 As funcionalidades descritas abaixo podem ser testadas via ferramentas como o [Postman](https://www.postman.com/) utilizando os endpoints fornecidos.
 
 ## 🚀 Funcionalidades Principais
 
